@@ -1,4 +1,4 @@
-let displayValue = "0";
+let displayValue = "0";//start
 
 function updateDisplay() {
     document.getElementById("display").innerText = displayValue;
